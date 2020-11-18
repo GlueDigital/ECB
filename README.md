@@ -11,9 +11,11 @@ Rúa López de Neira, 3 - Oficina 212
 [https://glue.digital](https://glue.digital)
 
 
+&nbsp;
 ![ECB Logo](/title.png)
 
 
+&nbsp;.
 ## Wiki
 
 Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital) +34616902622
