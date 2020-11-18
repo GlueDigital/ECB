@@ -1,4 +1,10 @@
+![Starting line](/line.png)
+
 ## Glue Digital
+Rúa López de Neira, 3 - Oficina 212
+36202 Vigo, Pontevedra. Spain
+(+34) 886 128 886
+[Link](https://glue.digital)
 
 ![ECB Logo](/title.png)
 
