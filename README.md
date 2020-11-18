@@ -22,7 +22,10 @@ Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.d
 
 
 &nbsp;
-## INTRODUCTION
+
+[INTRODUCTION](#intro)
+
+## INTRODUCTION {#intro}
 
 A Zero Knowledge Proof (ZKP) system is a cryptographic protocol that establishes a method for one party to prove to another one that a statement is true, without revealing anything other than the veracity of that statement.
 
