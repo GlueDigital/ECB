@@ -11,6 +11,10 @@ body {
     margin-right: auto;
 }
 
+#index {
+    padding-top: 80px;
+}
+
 #line-image {
     width: 800px;
 }
