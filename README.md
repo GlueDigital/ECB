@@ -118,6 +118,9 @@ In the event that a user wants to apply for public aid, we can use the protocol 
 
 
 &nbsp;
+
+
+&nbsp;
 1 Shafi Goldwasser, Silvio Micali, and Charles Rackoff
 [http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf](http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf)
 
