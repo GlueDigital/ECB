@@ -12,29 +12,11 @@ Rúa López de Neira, 3 - Oficina 212
 
 
 
-![ECB Logo](/title.png)
-  
-  
-  
-  
-  
-  
+![ECB Logo](/title.png) 
+
 ## Wiki
 
-Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital) +34616902622
-
-
-## CONTENTS
-
-INTRODUCTION
-
-PROBLEM TO SOLVE
-
-PROPOSED SOLUTION
-
-THE ECONOMICS BEHIND THE PROTOCOL
-
-USE CASES. 
+Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital) +34616902622 
 
 
 ## INTRODUCTION
@@ -49,36 +31,34 @@ ZPF protocols are a key development on the future financial system Europe must c
 
 The following paper is a technical overview of a protocol we are working on, therefore it will not go into mathematical proofs or excessive bibliography. Some of the ideas contained here do not really meet the requirements to be considered ZKP, so we will refer to them as Near Zero Knowledge Proofs.
 
+## PROBLEM TO SOLVE
 
+When we talk about financial transactions and lending system or financial processes in which there is no initial trust among the parties involved and one of them has to demonstrate a certain solvency, we find a scenario in which the user who has to prove his solvency normally has to send to the other part a huge amount of information, generating as a result a **bureaucratic problem**, a **friction problem**, which **reduces effective competition** and above all generates by giving these companies a lot of sensitive data.
 
-### Markdown
+These credit companies begin to function as data silos, managing vital information for users, related to their habits, their finances... Furthermore, some of these financial entities are trying to work as data aggregators using PSD2 enhanced technologies, worsening this privacy issue.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Experience shows us that bearing in mind these credit entities have ways of using this sensitive data against users at any given time they will do it2, and also that big data silos have an increasing propensity to be hacked, we strongly believe the best solution is to limit their access to personal data, as close to Zero as possible. The greatest motivation for building this protocol is the creation of an environment where we can create transactions with less friction, less bureaucracy, more competition and always respecting the users privacy.
 
-```markdown
-Syntax highlighted code block
+## PROPOSED SOLUTION
 
-# Header 1
-## Header 2
-### Header 3
+When we talk about ZKP, there are always 2 parties: the prover and the verifier. The prover wants to prove a certain fact before the verifier, without giving him access to anything but a proof, and the verifier wants proof of a certain fact or statement, in order to reduce uncertainty about a risk operation.
 
-- Bulleted
-- List
+Our proposed solution consists in a framework, an infrastructure layer on top (or integrated) of the digital euro blockchain that allows compatible wallets to become provers and banks taking the role of verifiers, so that, when a provider wants to initiate a request that requires information from the verifier, first, the party asks for permission, and then it receives a certain proof that will help to start a certain transaction in these entities.
 
-1. Numbered
-2. List
+These proofs can be of 3 types:
 
-**Bold** and _Italic_ and `Code` text
+* Range proofs:in which the verifier asks for a range, for example, that an indicative number of solvency is between one value and another, but without indicating the value.
+* Single proofs:in which verifier you want to know a specific statement, these proofs can be considered as NZKP.
+* Structured proofs:in which the verifier throws a complex question to the prover, and it has demonstrated with a test from which we can extract a statement. These structured tests are the most interesting, since we can ask when testing information about several accounts/wallets that the user has and sending to the verifier only a signal of solvency. As the mathematical test becomes more complex, the disaggregated data is more difficult to obtain.
 
-[Link](url) and ![Image](src)
-```
+This protocol is also defined by keeping the verifier audited, every time a verifier wants to launch a challenge, he has to indicate:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Who is the prover? Which wallet(s) does the user own?
+* What do you want to ask?This part is defined by the challenge itself and a clear explanation, so any user can understand what the verifier is looking for.
+* Why do you want to ask?The verifier always has to explain his motivation, in such a way that the user understands that it benefits him.
 
-### Jekyll Themes
+Faced with this information combo, the prober gives permission to his wallet, to his bank account to respond to that challenge, sending only the proof. In case a Digital European ID system is already developed, we could link the protocol to it, so various wallets can respond to the challenge.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GlueDigital/ecb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Under the protocol we create a blockchain that records all operations, so that either of the 2 parties or the regulator can access them, leaving legal proof that this verification has been done. These tests can also be used for a third party to guarantee the operation, allowing sophisticated financial operations that do not compromise the personal data of the users while at the same time enabling them to work with this technology.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We would propose the protocol as a free and open software development, so that any financial service provider can use it. Above the protocol we would create a layer of our own services for the ECB and example services and SDKs.
