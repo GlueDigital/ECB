@@ -11,13 +11,13 @@ Rúa López de Neira, 3 - Oficina 212
 [https://glue.digital](https://glue.digital)
 
 
----
-
 ![ECB Logo](/title.png)
+
 
 ## Wiki
 
 Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital) +34616902622
+
 
 ## INTRODUCTION
 
@@ -29,7 +29,8 @@ It is basically a protocol through which a digital authentication process can be
 
 ZPF protocols are a key development on the future financial system Europe must create, because **they allow frictionless data sharing between peers without actually sharing more data than it is needed**, preventing them to generate massive data silos.
 
-The following paper is a technical overview of a protocol we are working on, therefore it will not go into mathematical proofs or excessive bibliography. Some of the ideas contained here do not really meet the requirements to be considered ZKP, so we will refer to them as Near Zero Knowledge Proofs.
+The following paper is a technical overview of a protocol we are working on, therefore it will not go into mathematical proofs or excessive bibliography. Some of the ideas contained here do not really meet the requirements to be considered ZKP, so we will refer to them as Near Zero Knowledge Proofs.  
+
 
 ## PROBLEM TO SOLVE
 
@@ -37,7 +38,8 @@ When we talk about financial transactions and lending system or financial proces
 
 These credit companies begin to function as data silos, managing vital information for users, related to their habits, their finances... Furthermore, some of these financial entities are trying to work as data aggregators using PSD2 enhanced technologies, worsening this privacy issue.
 
-Experience shows us that bearing in mind these credit entities have ways of using this sensitive data against users at any given time they will do it2, and also that big data silos have an increasing propensity to be hacked, we strongly believe the best solution is to limit their access to personal data, as close to Zero as possible. The greatest motivation for building this protocol is the creation of an environment where we can create transactions with less friction, less bureaucracy, more competition and always respecting the users privacy.
+Experience shows us that bearing in mind these credit entities have ways of using this sensitive data against users at any given time they will do it2, and also that big data silos have an increasing propensity to be hacked, we strongly believe the best solution is to limit their access to personal data, as close to Zero as possible. The greatest motivation for building this protocol is the creation of an environment where we can create transactions with less friction, less bureaucracy, more competition and always respecting the users privacy.  
+
 
 ## PROPOSED SOLUTION
 
@@ -61,7 +63,8 @@ Faced with this information combo, the prober gives permission to his wallet, to
 
 Under the protocol we create a blockchain that records all operations, so that either of the 2 parties or the regulator can access them, leaving legal proof that this verification has been done. These tests can also be used for a third party to guarantee the operation, allowing sophisticated financial operations that do not compromise the personal data of the users while at the same time enabling them to work with this technology.
 
-We would propose the protocol as a free and open software development, so that any financial service provider can use it. Above the protocol we would create a layer of our own services for the ECB and example services and SDKs.
+We would propose the protocol as a free and open software development, so that any financial service provider can use it. Above the protocol we would create a layer of our own services for the ECB and example services and SDKs.  
+
 
 ## THE ECONOMICS BEHIND THE PROTOCOL
 
@@ -75,7 +78,8 @@ This leads to the fact that we should go to a model of fees per operation, payab
 
 Every time a verifier wants to launch a challenge, he pays a certain amount, if the user accepts this amount it is reduced, otherwise not, in this way we encourage the verifier to send relevant messages. In order to keep the network as less saturated and to make it scalable and functional, the cost of each operation is variable and depends on its availability. If costs rise, it will be easy for new players to enter.
 
-A nodal structure is proposed, without barriers to entry, so that almost any qualified company can put up a node and add processing capacity to the network, at the same time that we encourage healthy competition.
+A nodal structure is proposed, without barriers to entry, so that almost any qualified company can put up a node and add processing capacity to the network, at the same time that we encourage healthy competition.  
+
 
 ## USE CASES
 
