@@ -18,11 +18,15 @@ Rúa López de Neira, 3 - Oficina 212
 &nbsp;
 ## Wiki
 
-Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital) +34616902622
+Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital)
 
-[Intro](#test)
+[INTRODUCTION](#introduction)
+[PROBLEM TO SOLVE](#problem)
+[PROPOSED SOLUTION](#solution)
+[ECONOMICS BEHIND THE PROTOCOL](#economics)
+[USE CASES](#use)
 &nbsp;
-## INTRODUCTION
+## INTRODUCTION {#introduction}
 
 A Zero Knowledge Proof (ZKP) system is a cryptographic protocol that establishes a method for one party to prove to another one that a statement is true, without revealing anything other than the veracity of that statement.
 
@@ -36,7 +40,7 @@ The following paper is a technical overview of a protocol we are working on, the
 
 
 &nbsp;
-## PROBLEM TO SOLVE
+## PROBLEM TO SOLVE {#problem}
 
 When we talk about financial transactions and lending system or financial processes in which there is no initial trust among the parties involved and one of them has to demonstrate a certain solvency, we find a scenario in which the user who has to prove his solvency normally has to send to the other part a huge amount of information, generating as a result a **bureaucratic problem**, a **friction problem**, which **reduces effective competition** and above all generates by giving these companies a lot of sensitive data.
 
@@ -46,7 +50,7 @@ Experience shows us that bearing in mind these credit entities have ways of usin
 
 
 &nbsp;
-## PROPOSED SOLUTION
+## PROPOSED SOLUTION {#solution}
 
 When we talk about ZKP, there are always 2 parties: the prover and the verifier. The prover wants to prove a certain fact before the verifier, without giving him access to anything but a proof, and the verifier wants proof of a certain fact or statement, in order to reduce uncertainty about a risk operation.
 
@@ -72,7 +76,7 @@ We would propose the protocol as a free and open software development, so that a
 
 
 &nbsp;
-## THE ECONOMICS BEHIND THE PROTOCOL
+## ECONOMICS BEHIND THE PROTOCOL {#economics}
 
 When we design the economics of this protocol, 3 fundamental facts appear:
 
@@ -88,7 +92,7 @@ A nodal structure is proposed, without barriers to entry, so that almost any qua
 
 
 &nbsp;
-## USE CASES {#test}
+## USE CASES {#use}
 
 The following use cases are very basic applications of the protocol, applied to retail users. As can be seen, its application reduces friction, data leaks, improves competition and reduces the necessary bureaucracy for operations where trust is important.
 
