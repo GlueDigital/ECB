@@ -1,4 +1,15 @@
 theme: jekyll-theme-minimal
 title: Zero Protocol
-logo: /images/title.png
-description: Zero Protocol wiki
+description: 
+
+## CONTENTS
+
+[INTRODUCTION](#introduction)
+
+[PROBLEM TO SOLVE](#problem)
+
+[PROPOSED SOLUTION](#solution)
+
+[ECONOMICS BEHIND THE PROTOCOL](#economics)
+
+[USE CASES](#use)
