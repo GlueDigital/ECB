@@ -21,6 +21,7 @@ Rúa López de Neira, 3 - Oficina 212
 Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital) +34616902622
 
 
+&nbsp;
 ## INTRODUCTION
 
 A Zero Knowledge Proof (ZKP) system is a cryptographic protocol that establishes a method for one party to prove to another one that a statement is true, without revealing anything other than the veracity of that statement.
@@ -44,6 +45,7 @@ These credit companies begin to function as data silos, managing vital informati
 Experience shows us that bearing in mind these credit entities have ways of using this sensitive data against users at any given time they will do it2, and also that big data silos have an increasing propensity to be hacked, we strongly believe the best solution is to limit their access to personal data, as close to Zero as possible. The greatest motivation for building this protocol is the creation of an environment where we can create transactions with less friction, less bureaucracy, more competition and always respecting the users privacy.  
 
 
+&nbsp;
 ## PROPOSED SOLUTION
 
 When we talk about ZKP, there are always 2 parties: the prover and the verifier. The prover wants to prove a certain fact before the verifier, without giving him access to anything but a proof, and the verifier wants proof of a certain fact or statement, in order to reduce uncertainty about a risk operation.
@@ -69,6 +71,7 @@ Under the protocol we create a blockchain that records all operations, so that e
 We would propose the protocol as a free and open software development, so that any financial service provider can use it. Above the protocol we would create a layer of our own services for the ECB and example services and SDKs.  
 
 
+&nbsp;
 ## THE ECONOMICS BEHIND THE PROTOCOL
 
 When we design the economics of this protocol, 3 fundamental facts appear:
@@ -84,6 +87,7 @@ Every time a verifier wants to launch a challenge, he pays a certain amount, if 
 A nodal structure is proposed, without barriers to entry, so that almost any qualified company can put up a node and add processing capacity to the network, at the same time that we encourage healthy competition.  
 
 
+&nbsp;
 ## USE CASES
 
 The following use cases are very basic applications of the protocol, applied to retail users. As can be seen, its application reduces friction, data leaks, improves competition and reduces the necessary bureaucracy for operations where trust is important.
@@ -112,6 +116,8 @@ _Apply for a public aid_:
 
 In the event that a user wants to apply for public aid, we can use the protocol to, without knowing anything else about the user, to know if he qualifies, by income level to receive a next monthly payment, or if by having extra income this month he can fend for himself. Using this protocol, automatic minimum income systems could be extended and broadly automated.
 
+
+&nbsp;
 1 Shafi Goldwasser, Silvio Micali, and Charles Rackoff
 [http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf](http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf)
 
