@@ -8,16 +8,13 @@ Rúa López de Neira, 3 - Oficina 212
 
 (+34) 886 128 886
 
-[https://glue.digital](https://glue.digital) 
+[https://glue.digital](https://glue.digital)
 
-
-
-![ECB Logo](/title.png) 
+![ECB Logo](/title.png)
 
 ## Wiki
 
-Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital) +34616902622 
-
+Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital) +34616902622
 
 ## INTRODUCTION
 
@@ -105,9 +102,9 @@ _Apply for a public aid_:
 
 In the event that a user wants to apply for public aid, we can use the protocol to, without knowing anything else about the user, to know if he qualifies, by income level to receive a next monthly payment, or if by having extra income this month he can fend for himself. Using this protocol, automatic minimum income systems could be extended and broadly automated.
 
-1 Shafi Goldwasser, Silvio Micali, and Charles Rackoff 
+1 Shafi Goldwasser, Silvio Micali, and Charles Rackoff
 [http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf](http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf)
 
-2 Elena Boldyreva 
+2 Elena Boldyreva
 [https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation
 _With_Decision-Making_Process](https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation_With_Decision-Making_Process)
