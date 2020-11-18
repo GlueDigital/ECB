@@ -20,11 +20,21 @@ Rúa López de Neira, 3 - Oficina 212
 
 Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital)
 
+
+&nbsp;
+## CONTENTS
+
 [INTRODUCTION](#introduction)
+
 [PROBLEM TO SOLVE](#problem)
+
 [PROPOSED SOLUTION](#solution)
+
 [ECONOMICS BEHIND THE PROTOCOL](#economics)
+
 [USE CASES](#use)
+
+
 &nbsp;
 ## INTRODUCTION {#introduction}
 
