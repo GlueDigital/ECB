@@ -56,7 +56,7 @@ When we talk about financial transactions and lending system or financial proces
 
 These credit companies begin to function as data silos, managing vital information for users, related to their habits, their finances... Furthermore, some of these financial entities are trying to work as data aggregators using PSD2 enhanced technologies, worsening this privacy issue.
 
-Experience shows us that bearing in mind these credit entities have ways of using this sensitive data against users at any given time they will do it2, and also that big data silos have an increasing propensity to be hacked, we strongly believe the best solution is to limit their access to personal data, as close to Zero as possible. The greatest motivation for building this protocol is the creation of an environment where we can create transactions with less friction, less bureaucracy, more competition and always respecting the users privacy.  
+Experience shows us that bearing in mind these credit entities have ways of using this sensitive data against users at any given time they will do it[^nota2], and also that big data silos have an increasing propensity to be hacked, we strongly believe the best solution is to limit their access to personal data, as close to Zero as possible. The greatest motivation for building this protocol is the creation of an environment where we can create transactions with less friction, less bureaucracy, more competition and always respecting the users privacy.  
 
 
 &nbsp;
@@ -132,15 +132,9 @@ In the event that a user wants to apply for public aid, we can use the protocol 
 
 
 &nbsp;
-
-
-&nbsp;
-1 Shafi Goldwasser, Silvio Micali, and Charles Rackoff
-[http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf](http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf)
-
-2 Elena Boldyreva
-[https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation
-_With_Decision-Making_Process](https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation_With_Decision-Making_Process)
-
 [^nota1]: Shafi Goldwasser, Silvio Micali, and Charles Rackoff
 [http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf](http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf)
+
+[^nota2]: Elena Boldyreva
+[https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation
+_With_Decision-Making_Process](https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation_With_Decision-Making_Process)
