@@ -1,4 +1,4 @@
-![Starting line](/line.png)
+![Starting line](/images/line.png)
 
 ## Glue Digital
 
@@ -12,7 +12,7 @@ Rúa López de Neira, 3 - Oficina 212
 
 
 &nbsp;
-![ECB Logo](/title.png)
+![ECB Logo](/images/title.png)
 
 
 &nbsp;
