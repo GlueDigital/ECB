@@ -13,9 +13,11 @@ Rúa López de Neira, 3 - Oficina 212
 
 ![ECB Logo](/title.png).
 
+
 ## Wiki
 
 Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital) +34616902622
+
 
 ## CONTENTS
 
@@ -27,7 +29,8 @@ PROPOSED SOLUTION
 
 THE ECONOMICS BEHIND THE PROTOCOL
 
-USE CASES.
+USE CASES. 
+
 
 ## INTRODUCTION
 
