@@ -20,7 +20,7 @@ Rúa López de Neira, 3 - Oficina 212
 
 Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital) +34616902622
 
-
+[Intro](#test)
 &nbsp;
 ## INTRODUCTION
 
@@ -88,7 +88,7 @@ A nodal structure is proposed, without barriers to entry, so that almost any qua
 
 
 &nbsp;
-## USE CASES
+## USE CASES {#test}
 
 The following use cases are very basic applications of the protocol, applied to retail users. As can be seen, its application reduces friction, data leaks, improves competition and reduces the necessary bureaucracy for operations where trust is important.
 
