@@ -40,7 +40,7 @@ Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.d
 
 A Zero Knowledge Proof (ZKP) system is a cryptographic protocol that establishes a method for one party to prove to another one that a statement is true, without revealing anything other than the veracity of that statement.
 
-The inception of ZKPs began with the academic paper _“The Knowledge Complexity of Interactive Proof-Systems”1_ published in 1985 [^nota1], which basically exposes an efficient method of communicating a test between two machines.
+The inception of ZKPs began with the academic paper _“The Knowledge Complexity of Interactive Proof-Systems”_[^nota1] published in 1985, which basically exposes an efficient method of communicating a test between two machines.
 
 It is basically a protocol through which a digital authentication process can be facilitated, and in general certain information, without the use of passwords or other confidential data. As a result of this, no information, whether from the sender or the recipient, can be compromised.
 
@@ -142,4 +142,5 @@ In the event that a user wants to apply for public aid, we can use the protocol 
 [https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation
 _With_Decision-Making_Process](https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation_With_Decision-Making_Process)
 
-[^nota1]: Esto es una nota al pie de página.
+[^nota1]: Shafi Goldwasser, Silvio Micali, and Charles Rackoff
+[http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf](http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf)
