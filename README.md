@@ -130,9 +130,7 @@ _Apply for a public aid_:
 
 In the event that a user wants to apply for public aid, we can use the protocol to, without knowing anything else about the user, to know if he qualifies, by income level to receive a next monthly payment, or if by having extra income this month he can fend for himself. Using this protocol, automatic minimum income systems could be extended and broadly automated.
 
-[^nota1]: Shafi Goldwasser, Silvio Micali, and Charles Rackoff
-[http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf](http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf)
+[^nota1]: Shafi Goldwasser, Silvio Micali, and Charles Rackoff [Shafi Goldwasser, Silvio Micali, and Charles Rackoff](http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf)
 
 [^nota2]: Elena Boldyreva
-[https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation
-_With_Decision-Making_Process](https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation_With_Decision-Making_Process)
+[Elena Boldyreva](https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation_With_Decision-Making_Process)
