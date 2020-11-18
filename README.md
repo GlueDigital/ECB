@@ -15,7 +15,7 @@ Rúa López de Neira, 3 - Oficina 212
 ![ECB Logo](/title.png)
 
 
-&nbsp;.
+&nbsp;
 ## Wiki
 
 Author: Javier Blanco Thomas, CEO. Glue Digital. [javi@glue.digital](javi@glue.digital) +34616902622
@@ -34,6 +34,7 @@ ZPF protocols are a key development on the future financial system Europe must c
 The following paper is a technical overview of a protocol we are working on, therefore it will not go into mathematical proofs or excessive bibliography. Some of the ideas contained here do not really meet the requirements to be considered ZKP, so we will refer to them as Near Zero Knowledge Proofs.  
 
 
+&nbsp;
 ## PROBLEM TO SOLVE
 
 When we talk about financial transactions and lending system or financial processes in which there is no initial trust among the parties involved and one of them has to demonstrate a certain solvency, we find a scenario in which the user who has to prove his solvency normally has to send to the other part a huge amount of information, generating as a result a **bureaucratic problem**, a **friction problem**, which **reduces effective competition** and above all generates by giving these companies a lot of sensitive data.
