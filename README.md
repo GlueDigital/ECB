@@ -134,7 +134,6 @@ In the event that a user wants to apply for public aid, we can use the protocol 
 &nbsp;
 [^nota1]: Shafi Goldwasser, Silvio Micali, and Charles Rackoff
 [http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf](http://users.cms.caltech.edu/~vidick/teaching/101_crypto/GMR85_ZeroKnowledge.pdf)
-
 [^nota2]: Elena Boldyreva
 [https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation
 _With_Decision-Making_Process](https://www.researchgate.net/publication/330032180_Cambridge_Analytica_Ethics_And_Online_Manipulation_With_Decision-Making_Process)
