@@ -64,7 +64,7 @@ Experience shows us that if these companies have ways of using this sensitive da
 
 When we talk about ZKP, there are always 2 parties: the prover and the verifier. The prover wants to prove a certain fact before the verifier, without giving him access to anything but a proof, and the verifier wants proof of a certain fact or statement, in order to reduce uncertainty about a risk operation.
 
-Our proposed solution consists in a framework, an infrastructure layer on top (or integrated) of the digital euro blockchain that allows compatible wallets to become provers and banks taking the role of verifiers, so that, when a provider wants to initiate a request that requires information from the verifier, first, the party asks for permission, and then it receives a certain proof that will help to start a certain transaction in these entities.
+Our proposed solution is a framework, an infrastructure layer on top (or integrated) of the digital euro blockchain that allows compatible wallets to become provers and banks into verifiers, so that, when a provider wants to initiate a request that requires information from the verifier, first, the party asks for permission, and then it receives a certain proof that will help to start a certain transaction in these entities.
 
 These proofs can be of 3 types:
 
