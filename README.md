@@ -54,9 +54,9 @@ The following paper is a technical overview of a protocol we are working on, the
 
 When we talk about financial transactions and lending system or financial processes in which there is no initial trust among the parties involved and one of them has to demonstrate a certain solvency, we find a scenario in which the user who has to prove his solvency normally has to send to the other part a huge amount of information, generating as a result a **bureaucratic problem**, a **friction problem**, which **reduces effective competition** and above all generates a **privacy issue** by giving these companies a lot of sensitive data.
 
-These credit companies begin to function as data silos, managing vital information for users, related to their habits, their finances... Furthermore, some of these financial entities are trying to work as data aggregators using PSD2 enhanced technologies, worsening this privacy issue.
+These credit companies begin to function as data silos, managing vital information for users, related to their habits, their finances, etc. Also some of these financial entities are trying to work as data aggregators using PSD2 enhanced technologies, worsening this privacy issue.
 
-Experience shows us that bearing in mind these credit entities have ways of using this sensitive data against users at any given time they will do it[^nota2], and also that big data silos have an increasing propensity to be hacked, we strongly believe the best solution is to limit their access to personal data, as close to Zero as possible. The greatest motivation for building this protocol is the creation of an environment where we can create transactions with less friction, less bureaucracy, more competition and always respecting the users privacy.  
+Experience shows us that if these companies have ways of using this sensitive data against users at any given time they will do it[^nota2], and also that big data silos tend to be hacked more often, so basically the best solution is to limit their access to personal data, as close to Zero as possible. The greatest motivation for building this protocol is the creation of an environment where we can create transactions with less friction, less bureaucracy, more competition and respecting for privacy. 
 
 
 &nbsp;
