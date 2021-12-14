@@ -44,7 +44,7 @@ The inception of ZKPs began with the academic paper _“The Knowledge Complexity
 
 It is basically a protocol through which a digital authentication process can be facilitated, and in general certain information, without the use of passwords or other confidential data. As a result of this, no information, whether from the sender or the recipient, can be compromised.
 
-ZPF protocols are a key development on the future financial system Europe must create, because **they allow frictionless data sharing between peers without actually sharing more data than it is needed**, preventing them to generate massive data silos.
+ZKP protocols are a key development on the future financial system Europe must create, because **they allow frictionless data sharing between peers without actually sharing more data than it is needed**, preventing them to generate massive data silos.
 
 The following paper is a technical overview of a protocol we are working on, therefore it will not go into mathematical proofs or excessive bibliography. Some of the ideas contained here do not really meet the requirements to be considered ZKP, so we will refer to them as Near Zero Knowledge Proofs.  
 
